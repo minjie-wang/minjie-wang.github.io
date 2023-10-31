@@ -1,0 +1,35 @@
+# jemdoc: menu{menu}{index.html}, nofooter 
+= Research
+
+
+== Preprints
+
+- [http://arxiv.org/abs/2310.16698 Causal Discovery with Generalized Linear Models through Peeling Algorithms] \n
+*Minjie Wang*, Xiaotong Shen, and Wei Pan \n
+/Submitted/. \n
+
+
+- [https://arxiv.org/abs/2110.12067 Fast and Accurate Graph Learning for Huge Data via Minipatch Ensembles] \n
+Tianyi Yao, *Minjie Wang*, and Genevera I. Allen
+
+
+
+== Publications
+
+- [https://arxiv.org/abs/2005.12198 Supervised Convex Clustering] \n
+*Minjie Wang*, Tianyi Yao, and Genevera I. Allen \n
+/To appear in Biometrics/. \n
+(An earlier version of this paper received *Statistical Learning and Data Science (SLDS) 2020 Conference Student Paper Competition Award, American Statistical Association*.) \n
+
+- [https://arxiv.org/abs/2104.06389 Thresholded Graphical Lasso Adjusts for Latent Variables] \n
+*Minjie Wang* and Genevera I. Allen \n
+/Biometrika, *110*, 2023, 681-697/. \n
+
+- [https://arxiv.org/abs/2007.04441 Sparse Regression for Extreme Values] \n
+Andersen Chang, *Minjie Wang*, and Genevera I. Allen \n
+/Electronic Journal of Statistics, *15*, 2021, 5995-6035/. \n
+
+- [https://arxiv.org/abs/1912.05449 Integrative Generalized Convex Clustering Optimization and Feature Selection for Mixed Multi-View Data] \n
+*Minjie Wang* and Genevera I. Allen \n
+/Journal of Machine Learning Research, *22*, 2021, 1-73/. \n
+(An earlier version of this paper received *JSM Biometrics Section 2020 Travel Award, American Statistical Association*.) \n
